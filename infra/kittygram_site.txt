@@ -1,0 +1,5 @@
+IP: 89.169.173.147;
+name_taski: https://vkusno.sytes.net;
+name_kittygram: https://kittygram-project.zapto.org;
+login: admin;
+password: admin;
